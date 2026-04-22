@@ -36,6 +36,6 @@
 
 I'm based in Sales Oliveira, São Paulo.
 
-- Studying Computer Science (5/8) 💻 
+- Studying Computer Science (7/8) 💻 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
