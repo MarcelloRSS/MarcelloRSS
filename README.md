@@ -32,7 +32,7 @@
     <img src="./static/icons/cssIcon.svg" height="50" width="50">
 </div>
 
-## About me 😉
+## About me 🧐​
 
 I'm based in Sales Oliveira, São Paulo.
 
