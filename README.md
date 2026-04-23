@@ -23,7 +23,7 @@
     <img src="./static/icons/gitIcon.svg" width="50" height="50">
 </div>
 
-### Tech Stack 👩🏻‍💻
+### Tech Stack 👨‍💻​
 
 <div style="flex: 1; gap: 15px">
     <img src="./static/icons/javascriptIcon.svg" height="50" width="50">
