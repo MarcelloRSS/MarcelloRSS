@@ -27,7 +27,7 @@
 
 <div style="flex: 1; gap: 15px">
     <img src="./static/icons/javascriptIcon.svg" height="50" width="50">
-    <img src="./static/icons/phpIcon.svg" height="50" width="50">
+    <img src="./static/icons/python-svgrepo-com.svg" height="50" width="50">
     <img src="./static/icons/htmlIcon.svg" height="50" width="50">
     <img src="./static/icons/cssIcon.svg" height="50" width="50">
 </div>
